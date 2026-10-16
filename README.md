@@ -1,0 +1,1 @@
+Pandora "Agent" is going to be a Brain, Voice and Body for the model LFM2.5-2.6B(https://huggingface.co/LiquidAI/LFM2.5-2.6B) im also using supertonic(https://huggingface.co/Supertone/supertonic-3) 
